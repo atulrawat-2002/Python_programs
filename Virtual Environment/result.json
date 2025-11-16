@@ -1,0 +1,50 @@
+[
+    {
+        "Date": "2025-06-11",
+        "City": "Delhi",
+        "Temperature": "36.5",
+        "Condition": "Clear"
+    },
+    {
+        "Date": "2025-06-12",
+        "City": "Delhi",
+        "Temperature": "33.2",
+        "Condition": "Rainy"
+    },
+    {
+        "Date": "2025-06-13",
+        "City": "Delhi",
+        "Temperature": "34.0",
+        "Condition": "Clouds"
+    },
+    {
+        "Date": "2025-06-14",
+        "City": "Delhi",
+        "Temperature": "37.5",
+        "Condition": "Sunny"
+    },
+    {
+        "Date": "2025-06-15",
+        "City": "Delhi",
+        "Temperature": "34.3",
+        "Condition": "Cloudy"
+    },
+    {
+        "Date": "2025-06-16",
+        "City": "Delhi",
+        "Temperature": "36.9",
+        "Condition": "Winds"
+    },
+    {
+        "Date": "2025-06-17",
+        "City": "Delhi",
+        "Temperature": "35.4",
+        "Condition": "Clear"
+    },
+    {
+        "Date": "2025-06-18",
+        "City": "Delhi",
+        "Temperature": "36.1",
+        "Condition": "Storm"
+    }
+]
