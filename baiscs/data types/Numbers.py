@@ -5,12 +5,15 @@
 
 # print(f"Total grams: {total_grams}")
 
-print(5 / 10)
+x = 5 / 10
+print(type(4))
 
-print(5 // 10)
+# print(5 / 10)
 
-print(2 * 3)
+# print(5 // 10)
 
-print(2 ** 3)
+# print(2 * 3)
 
-print(1_000_000)
+# print(2 ** 3)
+
+# print(1_000_000)
